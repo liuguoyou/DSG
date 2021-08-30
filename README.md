@@ -10,15 +10,13 @@ This project is the official implementation of our paper *Diverse Sample Generat
 
 ### Results
 
-**Post-training Quantization on CIFAR10 dataset**
+Here are the results of data-free quantization methods with various architectures on the ImageNet dataset.
 
-![CIFAR10-PTQ](figures/CIFAR10-PTQ.jpg) 
-
-**Post-training Quantization on ImageNet dataset**
+**Data-free Post-training Quantization (PTQ) Methods**
 
 ![ImageNet-PTQ](figures/ImageNet-PTQ.jpg) 
 
-**Quantization-aware Training on ImageNet dataset**
+**Data-free Quantization-aware Training (QAT) Methods**
 
 ![ImageNet-QAT](figures/ImageNet-QAT.jpg) 
 
