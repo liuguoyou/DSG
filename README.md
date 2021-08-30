@@ -2,7 +2,7 @@
 
 Created by Haotong Qin, Yifu Ding, XiangguoZhang, Jiakai Wang, Xianglong Liu*, and Jiwen Lu from Beihang University and Tsinghua University.
 
-![framework](.\figures\framework.jpg)
+![framework](figures/framework.jpg)
 
 ### Introduction
 
@@ -12,14 +12,14 @@ This project is the official implementation of our paper *Diverse Sample Generat
 
 **Post-training Quantization on CIFAR10 dataset**
 
-![CIFAR10-PTQ](.\figures\CIFAR10-PTQ.jpg) 
+![CIFAR10-PTQ](figures/CIFAR10-PTQ.jpg) 
 
 **Post-training Quantization on ImageNet dataset**
 
-![ImageNet-PTQ](.\figures\ImageNet-PTQ.jpg) 
+![ImageNet-PTQ](figures/ImageNet-PTQ.jpg) 
 
 **Quantization-aware Training on ImageNet dataset**
 
-![ImageNet-QAT](.\figures\ImageNet-QAT.jpg) 
+![ImageNet-QAT](figures/ImageNet-QAT.jpg) 
 
 *The code will be released soon.*
