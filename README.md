@@ -34,5 +34,3 @@ If you find our work useful in your research, please consider citing:
       primaryClass={cs.CV}
 }
 ```
-
-*The code will be released soon.*
